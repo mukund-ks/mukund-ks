@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mukund Kumar</h1>
-<h3 align="center">An upcoming passionate full-stack developer from India. Currently studying at VIT-Bhopal.</h3>
+<h3 align="center">An upcoming passionate Full-Stack Developer from India. Currently studying at VIT-Bhopal.</h3>
 
 - 🔭 I’m currently working on [Radiopo](https://github.com/mukund-ks/radiopo)
 
