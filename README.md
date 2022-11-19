@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mukund Kumar</h1>
+<h1 align="center">Hi, I'm Mukund Kumar</h1>
 <h3 align="center">An upcoming passionate full-stack developer from India. Currently studying at VIT-Bhopal.</h3>
 
 - 🔭 I’m currently working on [Radiopo](https://github.com/mukund-ks/radiopo)
@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **Java, JS, Python, C++ and HTML/CSS.**
 
-- 📫 How to reach me **mukund.28.k@gmail.com**
+- 📫 Reach me at **mukund.28.k@gmail.com**
 
-- ⚡ Fun fact **I can center a div.**
+- ⚡ Fun fact: **I can center a div.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
