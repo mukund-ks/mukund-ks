@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mukund Kumar</h1>
 <h3 align="center">Aspiring SDE and ML Enthusiast from India. Currently studying at VIT-Bhopal.</h3>
 
-- 🔭 I’m currently working on [Radiopo](https://github.com/mukund-ks/radiopo)
+- 🔭 I’m currently working on [DesktopDigs](https://github.com/mukund-ks/desktopdigs)
 
 - 🌱 I’m currently learning **React, Express and Machine Learning.**
 
