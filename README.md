@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Mukund Kumar</h1>
-<h3 align="center">Aspiring SDE and ML Enthusiast from India. Currently studying at VIT-Bhopal.</h3>
+<h3 align="center">Aspiring Backend Engineer and ML Enthusiast from India. Currently studying at VIT-Bhopal.</h3>
 
 - 🔭 I’m currently working on [DesktopDigs](https://github.com/mukund-ks/desktopdigs)
 
-- 🌱 I’m currently learning **React, Express and Machine Learning.**
+- 🌱 I’m currently learning **NextJS, more about Backend and Segmentation Applications with DL.**
 
 - 👯 I’m looking to collaborate on [Any one of these projects](https://github.com/codecrafters-io/build-your-own-x)
 
