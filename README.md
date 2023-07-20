@@ -29,5 +29,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mukund-ks&show_icons=true&theme=dracula&hide_border=true&locale=en" alt="mukund-ks" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mukund-ks&theme=dark" alt="mukund-ks" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mukund-ks&theme=dracula" alt="mukund-ks" /></p>
 
