@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mukund Kumar</h1>
-<h3 align="center">Aspiring Backend Engineer and AI/ML Enthusiast from India. Currently studying at VIT-Bhopal.</h3>
+<h3 align="center">Aspiring Backend Engineer and AI/ML Enthusiast from India. Currently an Undergrad at VIT-Bhopal.</h3>
 
 - 🔭 I’m currently working on [DesktopDigs](https://github.com/mukund-ks/desktopdigs)
 
