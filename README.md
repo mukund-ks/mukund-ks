@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mukund Kumar</h1>
 <h3 align="center">Aspiring Backend Engineer and AI/ML Enthusiast from India. Currently an Undergrad at VIT-Bhopal.</h3>
 
-- 🔭 I’m currently working on [DesktopDigs](https://github.com/mukund-ks/desktopdigs)
+- 🔭 I’m currently working on [DesktopDigs](https://github.com/mukund-ks/desktopdigs) and [DeepLabV3-Segmentation](https://github.com/mukund-ks/DeepLabV3-Segmentation)
 
 - 🌱 I’m currently learning **NextJS, more about Backend and Segmentation Applications with DL.**
 
