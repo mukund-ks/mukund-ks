@@ -110,7 +110,12 @@
     <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mukund-ks&theme=dracula" alt="mukund-ks">
 </p>
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mukund-ks&show_icons=true&theme=dracula&hide_border=true&locale=en&layout=compact" alt="mukund-ks" />
+    <img 
+        align="left" 
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=mukund-ks&show_icons=true&theme=dracula&hide_border=true&locale=en&layout=donut&hide=html,css,jupyter%20notebook&size_weight=0.5&count_weight=0.5&langs_count=8&card_width=320" 
+        height=195 
+        alt="mukund-ks" 
+    />
 </p>
 
 <p>
