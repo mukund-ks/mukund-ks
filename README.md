@@ -51,7 +51,7 @@
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/>
     </a> 
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-        <img src="	https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/> 
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/> 
     </a> 
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/> 
@@ -165,11 +165,16 @@
     <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mukund-ks&theme=dracula" alt="mukund-ks">
 </p>
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mukund-ks&show_icons=true&theme=dracula&hide_border=true&locale=en&layout=compact" height="200" alt="mukund-ks" />
+    <img 
+        align="left" 
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=mukund-ks&show_icons=true&theme=dracula&hide_border=true&locale=en&layout=donut&hide=html,css,jupyter%20notebook&size_weight=0.5&count_weight=0.5&langs_count=8&card_width=320" 
+        height=195 
+        alt="mukund-ks" 
+    />
 </p>
 
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mukund-ks&show_icons=true&theme=dracula&hide_border=true&locale=en" height="200" alt="mukund-ks" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mukund-ks&show_icons=true&theme=dracula&hide_border=true&locale=en" alt="mukund-ks" />
 </p>
 
 <p>
