@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mukund Kumar</h1>
+<h1 align="center">👋 Hi, I'm Mukund Kumar</h1>
 <p align="center">
     <a href="https://linkedin.com/in/mukund-kumar-surehli" target="blank">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit" alt="mukund-kumar-surehli"/>
@@ -31,7 +31,7 @@
 
 - ⚡ Fun fact: **I can center a div.**
 
-<h2 align="center">Skill Set</h2>
+<h2 align="center">🛠️ Skill Set</h2>
 
 <h3 align="left">👩‍💻 Languages</h3>
 <p align="left">
@@ -134,7 +134,7 @@
     </a>
 </p>
 
-<h3 align="left">💻 Terminal</h3>
+<h3 align="left">🖥️ Terminal</h3>
 <p align="left">
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
         <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git"/> 
@@ -160,7 +160,7 @@
     </a> 
 </p>
 
-<h2 align="center">Github Stats</h2>
+<h2 align="center">📊 Github Stats</h2>
 <p>
     <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mukund-ks&theme=dracula" alt="mukund-ks">
 </p>
