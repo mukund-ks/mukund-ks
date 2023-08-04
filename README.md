@@ -19,7 +19,7 @@
 
 <h3 align="center">Aspiring Backend Engineer and AI/ML Enthusiast from India. Currently an Undergrad at VIT-Bhopal.</h3>
 
-- 🔭 I’m currently working on [DesktopDigs](https://github.com/mukund-ks/desktopdigs) and [DeepLabV3-Segmentation](https://github.com/mukund-ks/DeepLabV3-Segmentation)
+- 🔭 I’m currently working on [DesktopDigs](https://github.com/mukund-ks/desktopdigs), [DeepLabV3-Segmentation](https://github.com/mukund-ks/DeepLabV3-Segmentation) and [DeepLabV3Plus-PyTorch](https://github.com/mukund-ks/DeepLabV3Plus-PyTorch)
 
 - 🌱 I’m currently learning **NextJS, more about Backend and Segmentation Applications with DL.**
 
