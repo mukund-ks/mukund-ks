@@ -161,9 +161,9 @@
 </p>
 
 <h2 align="center">📊 Github Stats</h2>
-<p>
+<!-- <p>
     <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mukund-ks&theme=dracula" alt="mukund-ks">
-</p>
+</p> -->
 <p>
     <img 
         align="left" 
