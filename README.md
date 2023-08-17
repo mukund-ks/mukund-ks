@@ -25,7 +25,7 @@
 
 - 👯 I’m looking to collaborate on [Any one of these projects](https://github.com/codecrafters-io/build-your-own-x)
 
-- 💬 Ask me about **Java, JS, Python, C++ and HTML/CSS.**
+- 💬 Ask me about **JS, Python, C++ and ML Stuff.**
 
 - 📫 Reach me at **mukund.28.k@gmail.com**
 
