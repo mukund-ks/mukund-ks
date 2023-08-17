@@ -132,6 +132,9 @@
     <a href="https://www.microsoft.com/en-in/windows/windows-11?r=1" target="_blank" rel="noreferrer"> 
         <img src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white" alt="windows11"/> 
     </a>
+    <a href="https://learn.microsoft.com/en-us/windows/wsl/about" target="_blank" rel="noreferrer"> 
+        <img src="https://img.shields.io/badge/WSL-0a97f5?style=for-the-badge&logo=linux&logoColor=white" alt="wsl2"/> 
+    </a>
 </p>
 
 <h3 align="left">🖥️ Terminal</h3>
