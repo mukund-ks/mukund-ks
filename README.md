@@ -1,3 +1,3 @@
 - Hi, I'm Mukund Kumar Surehli!
-- Associate SWE @ [CyberArk](https://www.cyberark.com)
+- Associate SWE @ [Palo Alto Networks](https://www.paloaltonetworks.com/idira)
 - Based in Hyderabad, India
